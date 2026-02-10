@@ -35,6 +35,8 @@ My ablation studies prove that Claim 3—the learnability of the residual amplit
 amplitude learning disabled  
 Test accuracy dropped from 61.75% → 55.53%
 
+Ablation:
+experiments show that learnable pulse amplitude is necessary for the observed gains. Removing amplitude learning reduced performance significantly, indicating that localized residual strength plays a critical role.
 
 Al-Biltaji, Mohammad. 2026.
 SentinelPulse-LAR: Identity-Preserving Activation with Learnable Localized Corrections.
