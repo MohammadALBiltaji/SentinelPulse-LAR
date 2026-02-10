@@ -1,6 +1,6 @@
-class SPv5_2d(nn.Module):
+class SpLR_2d(nn.Module):
     """
-    SPv5 activation for Conv2d outputs.
+    SpLR_2d activation for Conv2d outputs.
 
     Formula:
         y = x + α * x * exp(-β * x^2)
@@ -27,9 +27,9 @@ class SPv5_2d(nn.Module):
         return x + alpha * x * torch.exp(-beta * x * x)   # identity + localized bump
 
 
-class SPv5_1d(nn.Module):
+class SpLR_1d(nn.Module):
     """
-    SPv5 activation for Linear (fully-connected) outputs.
+    SpLR_1d activation for Linear (fully-connected) outputs.
 
     Same formula as SPv5_2d, but α_raw has shape (1, F)
     so it broadcasts over the batch dimension.
