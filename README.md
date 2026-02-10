@@ -41,3 +41,8 @@ Al-Biltaji, Mohammad. 2026.
 SentinelPulse-LAR: Identity-Preserving Activation with Learnable Localized Corrections.
 Preprint.
 
+# Citation
+
+Al-Biltaji, Mohammad. 2026.
+SentinelPulse-LAR: Identity-Preserving Activation with Learnable Localized Corrections.
+Preprint.
