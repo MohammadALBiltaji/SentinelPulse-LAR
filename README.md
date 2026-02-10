@@ -1,6 +1,4 @@
 # SentinelPulse-LAR: Identity-Preserving Activation with Learnable Localized Corrections
-Gemini said
-Here is a professional, high-impact README.md tailored for your repository. This is designed to act as your technical portfolio, showing anyone who visits—recruiters or researchers—exactly why SentinelPulse-LAR is a breakthrough.
 
 
 SentinelPulse-LAR: Identity-Preserving Activation with Learnable Localized Corrections
